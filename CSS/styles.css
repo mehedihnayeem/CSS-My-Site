@@ -171,6 +171,11 @@ hr {
   text-decoration: none;
 }
 
+
+.bottom-container a:hover {
+  color: white;
+}
+
 .bottom-container p{
   font-family: 'Montserrat', sans-serif;
   color: #EAF6F6;
